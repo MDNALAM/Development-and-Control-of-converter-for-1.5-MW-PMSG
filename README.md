@@ -1,0 +1,2 @@
+# Development-and-Control-of-converter-for-1.5-MW-PMSG
+the main tasks which have been done in this prethesis were a suitable 3 level FC converter design for the machine side and the corresponding losses calculation of the converter. In addition to the previous task the thermal model also realized which shows the temperature status in the IGBTs, diodes, junctions, heat sinks and in the end the efficiency curve is presented to show the overall performance of the designed converter. The efficiency found was approximately 98.5%.
